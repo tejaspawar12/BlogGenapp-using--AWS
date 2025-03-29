@@ -29,3 +29,15 @@ Client (Postman) → API Gateway → Lambda Function
                   Generated Blog → Amazon S3
                              ↓
                       Logs → CloudWatch
+
+##📆 Features
+
+Accepts any blog topic via POST request
+
+Generates content using LLM (Meta Llama3 via Bedrock)
+
+Automatically stores generated blog in S3
+
+Logs the generation and storage process in CloudWatch
+
+IAM-managed secure access across all services
