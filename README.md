@@ -154,11 +154,7 @@ Follow these steps to set up the project in your AWS account:
 ---
 
 ## 👋 About
-
-This project was developed as part of **Ud StudyAide's initiative** to explore Generative AI using AWS Bedrock and serverless cloud infrastructure.
-
 **Author:** Tejas Pawar  
 **Program:** M.S. Data Science, University of Delaware  
-[Connect with me on LinkedIn](https://www.linkedin.com) *(Add your profile link)*
 
 ⭐ **Feel free to star this repository or provide feedback!**
