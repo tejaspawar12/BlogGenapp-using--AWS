@@ -19,17 +19,6 @@ The system is built using **AWS Lambda, Bedrock, S3, IAM, CloudWatch**, and **AP
 
 ---
 
-## 🛠️ Architecture Overview
-
-```text
-Client (Postman) → API Gateway → Lambda Function
-                             ↓
-                      Amazon Bedrock (LLM)
-                             ↓
-                  Generated Blog → Amazon S3
-                             ↓
-                      Logs → CloudWatch
----
 
 ##📆 Features
 
