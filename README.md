@@ -29,9 +29,9 @@ Client (Postman) → API Gateway → Lambda Function
                   Generated Blog → Amazon S3
                              ↓
                       Logs → CloudWatch
+---
 
-
-# 📆 Features
+##📆 Features
 
 - Accepts any blog topic via **POST** request
 - Generates content using **LLM (Meta Llama3 via Bedrock)**
